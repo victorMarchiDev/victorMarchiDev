@@ -1,12 +1,14 @@
-<h1 align="center">Olá 👋, Me chamo Victor Marchi</h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=fff&width=435&height=100&lines=Olá+%2C+Me chamo Victor Marchi+%F0%9F%91%8B" alt="Typing SVG" /></a></h1>
 
 
 
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
-🌱 Atualmente estou aprendendo sobre desenvolvimento back-end com Java
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+* 🌱 Atualmente estou aprendendo sobre desenvolvimento back-end com Java
+* 🎓 Graduando em Análise e Desenvolvimento de Sistemas
+* 📫 Contato: vh38738@gmail.com
+
 
 
 <br>
