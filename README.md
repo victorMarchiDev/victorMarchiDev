@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=fff&width=435&height=100&lines=Olá+%2C+Me chamo Victor Marchi+%F0%9F%91%8B" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=fff&width=435&height=100&lines=Olá 👋+%2C+Me chamo Victor Marchi+%F0%9F%91%8B" alt="Typing SVG" /></a></h1>
 
 
 
