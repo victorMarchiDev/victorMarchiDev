@@ -5,7 +5,7 @@
 
 <p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
-* 🌱 Atualmente estou aprendendo sobre desenvolvimento back-end com Java
+* 🌱 Atualmente estou aprendendo sobre desenvolvimento back-end com Java e o framework Spring
 * 🎓 Graduando em Análise e Desenvolvimento de Sistemas
 * 📫 Contato: vh38738@gmail.com
 
