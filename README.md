@@ -11,7 +11,7 @@
         </a>
     </h1>
 
-  <p>🌱 Atualmente estou aprendendo sobre desenvolvimento back-end com Java e Spring</p>
+  <p>🌱 Atualmente estou aprendendo sobre desenvolvimento back-end com Java e Spring e desenvolvimento nativo Android com Kotlin</p>
     <p>🎓 Graduando em Análise e Desenvolvimento de Sistemas</p>
     <p>📫 Contato: <a href="mailto:vh38738@gmail.com" style="color: #58a6ff;">vh38738@gmail.com</a></p>
 
