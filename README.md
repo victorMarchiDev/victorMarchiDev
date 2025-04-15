@@ -48,12 +48,11 @@
     
   <p>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=victorMarchiDev&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Top Langs" />
-    <img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" />
+        <img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" />
     </p>
     
    <p>
         <img src="https://github-readme-stats.vercel.app/api?username=victorMarchiDev&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
-   
   </p>
 
  
