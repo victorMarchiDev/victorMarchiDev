@@ -41,10 +41,11 @@
 
    
     
-  <h2>GitHub Stats</h2>
-    <p>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=victorMarchiDev&theme=tokyonight" alt="GitHub Streak" />
-    </p>
+  <h2>🏆 GitHub Status </h2>
+<p align="">
+  <img src="https://github-profile-trophy.vercel.app/?username=victorMarchiDev&theme=tokyonight" alt="GitHub Trophies" />
+</p>
+
     
   <p>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=victorMarchiDev&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Top Langs" />
